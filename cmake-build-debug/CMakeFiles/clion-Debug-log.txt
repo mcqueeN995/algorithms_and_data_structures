@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\kiril\CLionProjects\algorithms_and_data_structures Select CMakeLists.txt
